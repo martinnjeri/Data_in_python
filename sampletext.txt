@@ -1,0 +1,18 @@
+Certainly! Here are five additional tasks for interviewing a junior Python developer:
+
+Basic Algorithm Task:
+
+Write a Python function that takes a list of integers as input and returns the sum of all even numbers in the list.
+String Manipulation:
+
+Create a function that takes a string as input and returns the string reversed. For example, if the input is "Python," the function should return "nohtyP."
+List Comprehensions:
+
+Given a list of numbers, write a Python code snippet that uses list comprehensions to create a new list containing the squares of the original numbers.
+File Handling:
+
+Write a Python program that reads a text file, counts the number of words in it, and prints the result. Additionally, find and print the longest word in the file.
+Error Handling and Debugging:
+
+Provide a piece of Python code with intentional errors (e.g., syntax errors, logic errors). Ask the candidate to identify and fix the errors to make the code run successfully. This task assesses their debugging skills.
+These tasks cover a range of skills and concepts commonly required for a junior Python developer, including basic algorithms, string manipulation, list comprehensions, file handling, and the ability to identify and fix errors in code.
